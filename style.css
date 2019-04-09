@@ -159,6 +159,10 @@ body {
   color: #ffffff;
 }
 
+.widebutton {
+  padding: 8px 125px;
+}
+
 /**
 *Page title
 **/
